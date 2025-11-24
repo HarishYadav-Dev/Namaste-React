@@ -1,0 +1,20 @@
+{
+  "name": "episode---02",
+  "version": "1.0.0",
+  "description": "This is Namasthe react by Harish Yadav ",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
